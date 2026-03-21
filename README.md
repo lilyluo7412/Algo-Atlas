@@ -1,6 +1,8 @@
 [LeetCode post](https://leetcode.cn/discuss/post/3851162/ru-he-ke-xue-de-8ge-yue-xie-2000ti-x-plo-zvsq/)
 
-[xhs(](http://xhslink.com/o/9IVHU999iO0)
+[xhs](http://xhslink.com/o/9IVHU999iO0)
+
+[bilibili]
 
 ![algo](./png/Re_Algo.png)
 
@@ -215,7 +217,7 @@ Thank you to all the people who have already contributed to this repo templates
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=lvy010/leetcode&type=Date)](https://star-history.com/#lvy010/leetcode&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=lvy010/Algo-Atlas&type=Date)](https://www.star-history.com/?repos=lvy010/Algo-Atlas&type=date&legend=top-left)
 
 ------
 ## 算法之外(in process)
