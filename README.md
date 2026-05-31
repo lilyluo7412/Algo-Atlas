@@ -7,6 +7,7 @@
 ![algo](./png/Re_Algo.png)
 
 # 从零开始的算法学习之路
+
 **Re:Algo - Starting Algorithms from Zero**
 
 ### 前言
@@ -25,10 +26,10 @@
 
 有了自己的框架之后刷题大脑可以自动归档，可以参考下面分类来搭建自己的框架
 
- - [100道典型例题](#100道典型例题)
- - [递归，搜索与回溯](#递归搜索与回溯)
- - [动态规划](#动态规划)
- - [贪心算法](#贪心算法)
+- [100道典型例题](#100道典型例题)
+- [递归，搜索与回溯](#递归搜索与回溯)
+- [动态规划](#动态规划)
+- [贪心算法](#贪心算法)
 
 下面是概览的标题，点击可以跳转到我整理的题解
 
@@ -187,7 +188,7 @@
 
 学会放松和学会刷题一样重要，健康的身心才可以更好的去做喜欢的事情
 
----------
+---
 
 ### 使用指南
 
@@ -196,7 +197,7 @@
 
 tips:如果没使用过 GitHub，复制仓库链接给 AI 并提问——“我该如何把这个仓库 clone 到本地使用”，碰到问题继续追问 AI，刚好实践学一下GitHub使用方法~
 
------
+---
 
 ### co-creation
 
@@ -214,12 +215,12 @@ Thank you to all the people who have already contributed to this repo templates
 
 [![Contributors](https://contrib.rocks/image?repo=lvy010/leetcode)](https://github.com/lvy010/leetcode/graphs/contributors)
 
-
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=lvy010/Algo-Atlas&type=Date)](https://www.star-history.com/?repos=lvy010/Algo-Atlas&type=date&legend=top-left)
 
-------
+---
+
 ## 算法之外(in process)
 
 后续计划对系列文章进行总结整理，更新至repo:[X-Plore](https://github.com/lvy010/ThoughtMap)/从零开始的X学习之路 下
@@ -228,7 +229,7 @@ Thank you to all the people who have already contributed to this repo templates
 
 ![x](./png/x.png)
 
-### example content 
+### example content
 
 #### 从零开始的Linux学习之路
 
@@ -250,7 +251,13 @@ Thank you to all the people who have already contributed to this repo templates
 
 **期待一切有助于学习&进步的建议与共创~可以直接提issue/email me**
 
--------
+---
+
 附录：
 "那一天,人们回想起了这个仓库的起因,那篇被删掉的文章..."
+
 仓库由来：[leetcode题单分享_第一版完整的原文截图](./other/Share_the_original_text.md)原文因为一些原因已经不存在了，这是一份备份。
+
+<!-- 赞助说明 -->
+
+> [DolOffer](https://doloffer.com) ：如果在使用 ChatGPT Plus 或 Claude Pro，可以看看，支持正规订阅，价格相对实惠。感谢赞助 :p
