@@ -1,0 +1,31 @@
+//lc2416
+class Solution {
+public:
+    vector<int> sumPrefixScores(vector<string> &words) {
+        struct Node {
+            Node *son[26]{};
+            int score = 0;
+        };
+        Node *root = new Node();
+        for (auto &word : words) {
+            auto cur = root;
+            for (char c : word) {
+                c -= 'a';
+                if (cur->son[c] == nullptr) cur->son[c] = new Node();
+                cur = cur->son[c];
+                ++cur->score; // 更新所有前缀的分数
+            }
+        }
+
+        int n = words.size();
+        vector<int> ans(n);
+        for (int i = 0; i < n; ++i) {
+            auto cur = root;
+            for (char c : words[i]) {
+                cur = cur->son[c - 'a'];
+                ans[i] += cur->score; // 累加分数，即可得到答案
+            }
+        }
+        return ans;
+    }
+};
